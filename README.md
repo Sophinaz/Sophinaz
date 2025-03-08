@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on projects with Next.js on the frontend.<br>I'm looking to collaborate on web applications.<br>I'm looking for help with showing my skills in real world applications.<br>I'm currently learning backend development.<br>Ask me to collaborate in projects.
+I'm currently working on projects with Next.js.<br>I'm looking to collaborate on web applications.<br>I'm looking for help with showing my skills in real world applications.<br>I'm currently learning backend development.<br>Ask me to collaborate in projects.
 
 
 ## 🌐 Socials:
