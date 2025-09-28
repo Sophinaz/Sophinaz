@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophinaz" alt="sophinaz" /></a> </p>
 
-- 🔭 I’m currently working on **projects with Next.js.**
+- 🔭 I’m currently working on **projects with Go.**
 
-- 🌱 I’m currently learning **backend development.**
+- 🌱 I’m currently working as a **backend developer.**
 
 - 👯 I’m looking to collaborate on **web applications.**
 
